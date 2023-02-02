@@ -18,13 +18,11 @@ The goal of this lab is to begin defining classes in Python. 🚀
 
 ## 📝 Next steps
 1. Complete the work in the notebook here (5_6_2_Classes.ipynb) using the CoLab interface.
-2. Using GIT, clone this repo to your Raspberry Pi.
-3. Using NANO and the terminal in your pi, create a new text file called "observations.txt" and write what you learned in this lab.
-4. Write a script in Python that does the following:
+2. In this repository (you don't have to use your Raspberry Pi, if you do not want to) write a Python script that does the following:
     - Define any new class which contains at least two parameters.
     - Use those paramaters to define attributes in the class definition.
     - Add at least one method to the class which may be used to return information by the user of the script.
-5. Add and commit changes to your local repo and push them to this repo using GIT.
+3. Write an "observations.md" file in this repo that explains what you learned in this lab.
 
 ## 📚  Resources 
 [Think Python Textbook](https://greenteapress.com/wp/think-python-2e/)
